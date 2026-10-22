@@ -1,22 +1,22 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (ZXHAMIM)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "HAMIM";
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL LINK@hamimmod
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "@hamimmod";
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// TELEGRAM GROUP LINK@hamimmod
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "@hamimmod";
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// YOUTUBE CHANNEL LINK@hamimahmed-110
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "";@hamimahmed-l1o
 
 // =======================================================
 // NOTIFICATION TEXT
