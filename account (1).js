@@ -6,17 +6,17 @@ var website_name = "HAMIM";
 // =======================================================
 // TELEGRAM CHANNEL LINK@hamimmod
 // =======================================================
-var telegram_channel_link = "@hamimmod";
+var telegram_channel_link = "https://t.me/hamimmod";
 
 // =======================================================
-// TELEGRAM GROUP LINK@hamimmod
+// TELEGRAM GROUP LINK
 // =======================================================
 var telegram_group_link = "@hamimmod";
 
 // =======================================================
-// YOUTUBE CHANNEL LINK@hamimahmed-110
+// YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "";@hamimahmed-l1o
+var youtube_channel_link = "https://www.youtube.com/@hamimahmed-110";
 
 // =======================================================
 // NOTIFICATION TEXT
